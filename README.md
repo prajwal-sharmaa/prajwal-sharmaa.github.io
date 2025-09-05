@@ -1,1 +1,13 @@
 # prajwal-sharmaa.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prajwal Sharma</title>
+</head>
+<body>
+  <h1>Welcome to Prajwal Sharma's Website 🚀</h1>
+  <p>This site is live using GitHub Pages + Custom Domain.</p>
+</body>
+</html>
